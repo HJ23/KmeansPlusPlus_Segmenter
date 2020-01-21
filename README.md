@@ -1,5 +1,5 @@
 ## K means++ Image Segmentation
-> **Note:** The **K means++** is improved version of **K means** it initializes centroids which helps to converge fast and avoid any clustering problems . Just first phase which is initialization phase is different rest of the algorithms are same.
+> **Note:** The **K means++** is improved version of **K means** it initializes centroids which helps to converge fast and avoid any clustering problems . Just first phase which is initialization is different in Kmeans++ however rest of the algorithms are same.
 
 Instead randomly initialization it picks first one randomly and for the rest  best centroid matches selection performed .
 
