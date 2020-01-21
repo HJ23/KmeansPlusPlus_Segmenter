@@ -15,5 +15,7 @@ k=5 best case 30 sec (on CPU 1 thread)
 
 
 > Requirements :
-> Opencv for python : cv2
+
+> OpenCV for python : cv2
+
 > numerical computation library : numpy
