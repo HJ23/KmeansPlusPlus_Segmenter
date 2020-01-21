@@ -12,3 +12,8 @@ k=3  best case : 18 seconds (on CPU 1 thread)
 
 k=5 best case 30 sec (on CPU 1 thread)
 >![segmentk5](https://user-images.githubusercontent.com/39130214/72843403-e199ff80-3cb3-11ea-98b9-6b456201887e.png)
+
+
+> Requirements :
+> Opencv for python : cv2
+> numerical computation library : numpy
